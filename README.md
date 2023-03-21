@@ -6,4 +6,4 @@ First, each data point is randomly assigned to one of the K clusters. Then, we c
 
 Dataset used: https://www.kaggle.com/datasets/saurabh00007/iriscsv
 
-Video demonstartion: https://youtu.be/wLBfGPl3ItQ
+Video demonstartion: https://youtu.be/vNTPJg7G5EM
